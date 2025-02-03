@@ -1,0 +1,11 @@
+{
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.activityBar.location": "bottom",
+    "workbench.colorCustomizations": {
+        "[Default Dark Modern]": {}
+    },
+    "workbench.colorTheme": "Abyss",
+    "workbench.preferredDarkColorTheme": "Dracula Theme",
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "workbench.iconTheme": "vs-seti"
+}
